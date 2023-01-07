@@ -1,0 +1,31 @@
+body{
+    background-color: #F4EAD5;
+    font-family:'Merriweather', serif;
+    font-weight: lighter;
+    margin: 0 120px;
+    line-height: 2;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family:'Merriweather', serif;
+    color: #434242; 
+}
+h2:hover{
+    text-decoration: underline;
+    color: #594545;
+}
+.heading{
+    text-align: center;
+}
+.biography{
+    padding: 40px;
+}
+a:hover{
+    color: red;
+}
+a:visited{
+    color: purple;
+}
+img{
+    border: 5px solid #434242;
+    border-radius: 5%;
+}
